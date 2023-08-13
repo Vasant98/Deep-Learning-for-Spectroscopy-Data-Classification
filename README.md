@@ -43,7 +43,7 @@ pip install tensorflow keras numpy pandas matplotlib scikit-learn joblib
 1. Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/YourUsername/YourRepository.git
+git clone https://github.com/Vasant98/Tensorflow-models.git
 ```
 
 2. Navigate to the project directory:
