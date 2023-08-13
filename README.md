@@ -62,7 +62,7 @@ python train_model.py
 
 The provided Python script `train_model.py` demonstrates the entire process of loading the data, preprocessing, model building, training, and evaluation. It includes functions for data augmentation, preprocessing, model architecture, training, and evaluation.
 
-You can customize various parameters and settings in the script to experiment with different architectures, hyperparameters, and data augmentation techniques.
+You can customize various parameters and settings in the script to experiment with different architectures, hyperparameters, and data augmentation techniques. 
 
 ## Results
 
