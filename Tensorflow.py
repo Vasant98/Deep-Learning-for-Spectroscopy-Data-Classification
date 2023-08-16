@@ -144,9 +144,9 @@ def airPLS(x, lambda_=100, porder=1, itermax=15):
 
 #%% Load Data
 train_csv = os.path.normpath(os.path.expanduser
-                              (r"C:\Users\Phang In Yee\Desktop\PLSDA-Fingerprint-maker\output\9000 features\Malaysia\Day 9 and 10\Combined_Day_9and10.csv"))
+                              (r"C:\Combined_Day_9and10.csv"))
 test_csv = os.path.normpath(os.path.expanduser
-                             (r"C:\Users\Phang In Yee\Desktop\PLSDA-Fingerprint-maker\output\9000 features\Malaysia\Day6_Malaysia_21083__20220407__184446.csv"))
+                             (r"C:\Day6_Malaysia_21083__20220407__184446.csv"))
 
 # Load the data
 train = pd.read_csv(train_csv)
